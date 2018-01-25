@@ -8,7 +8,7 @@ title: 关于我
 
 <p>
   
-平时有点空就会瞎搞瞎弄些东西，属于那种没有什么专精的人。过去有些java和c#基础，现在算是在认真学c++。[**download**][kk]
+平时有点空就会瞎搞瞎弄些东西，属于那种没有什么专精的人。过去有些java和c#基础，现在算是在认真学c++。<a href="http://ys-i.ys168.com/579817344/n3L453J77H5OLJTjsHxj/6%20min_%20Laughter%20Yoga%2029%20Oct%2009.mp3"> DOWNLOAD </a>
 
 <p>
 
@@ -26,8 +26,6 @@ title: 关于我
 
 {% include comments.html %}
 
-
-[kk]: http://ys-i.ys168.com/579817344/n3L453J77H5OLJTjsHxj/6%20min_%20Laughter%20Yoga%2029%20Oct%2009.mp3
 
 
 

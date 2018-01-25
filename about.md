@@ -8,7 +8,7 @@ title: 关于我
 
 <p>
   
-平时有点空就会瞎搞瞎弄些东西，属于那种没有什么专精的人。过去有些java和c#基础，现在算是在认真学c++。<a href="http://ys-i.ys168.com/579817344/n3L453J77H5OLJTjsHxj/6%20min_%20Laughter%20Yoga%2029%20Oct%2009.mp3"> DOWNLOAD </a>
+平时有点空就会瞎搞瞎弄些东西，属于那种没有什么专精的人。过去有些java和c#基础，现在算是在认真学c++。<a href="https://github.com/And233/and233.github.io/tree/master/_posts/2017-09-01-wurenjiashi.md"> DOWNLOAD </a>
 
 <p>
 

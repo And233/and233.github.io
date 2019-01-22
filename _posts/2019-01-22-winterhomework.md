@@ -7,4 +7,4 @@ description: XDD
 
 ---
 
-![rua!](https://github.com/And233/E/blob/master/1.jpg)
+![rua!](https://github.com/And233/E/blob/master/1.png)
